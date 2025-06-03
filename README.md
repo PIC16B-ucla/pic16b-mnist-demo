@@ -9,7 +9,7 @@
 
 4. Inside the code folder `pic16b-mnist-demo`, run 
  ```
-conda activate PIC16B-25W
+conda activate BIOSTAT203C-25S
 python app.py
 ```
 to make sure you're in the correct directory and the code and dash is working. 
@@ -52,6 +52,10 @@ The most important thing is that the __billing account is connected to your "edu
 
 ## Notes
 
+1. Deploying app is not a requirement for Homework 5.
+
+<!--
 1. When you're working on the web app homework or project, I fully expect you to copy the files from this git repo and modify it.
    You may need to change `requirements.txt` based on packages and their versions you use, but I recommend keeping the `Dockerfile` and `Procfile` as is (unless you have a good understanding of what you're doing!).
+-->
 
